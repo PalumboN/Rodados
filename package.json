@@ -4,14 +4,11 @@
   "description": "test",
   "main": "Dependencia.js",
   "scripts": {
-    "test": "Jest"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.9.0"
-  },
-    "scripts": {
-      "test": "jest"
-    }
+  }
 }
